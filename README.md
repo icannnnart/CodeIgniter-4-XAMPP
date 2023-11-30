@@ -4,6 +4,7 @@ First of all stop the xampp/wamp and then kindly remove the starting semicolon (
 <br>
 ;extension=php_intl.dll
 And then restart your xampp/wamp.
+<br><br>
 
 [![PHPUnit](https://github.com/codeigniter4/CodeIgniter4/workflows/PHPUnit/badge.svg)](https://github.com/codeigniter4/CodeIgniter4/actions/workflows/test-phpunit.yml)
 [![PHPStan](https://github.com/codeigniter4/CodeIgniter4/actions/workflows/test-phpstan.yml/badge.svg)](https://github.com/codeigniter4/CodeIgniter4/actions/workflows/test-phpstan.yml)
