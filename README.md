@@ -1,6 +1,7 @@
 # CodeIgniter 4 Development Running Xampp
+<hr>
 <br>
-<h5>First of all stop the xampp/wamp and then kindly remove the starting semicolon ( ; ) from your xampp/php/php.ini the following code.</h5><br>
+<h5>First of all stop the xampp/wamp and then kindly remove the starting semicolon ( ; ) from your xampp/php/php.ini the following code.</h5>
 <br>
 ;extension=php_intl.dll
 <br>
